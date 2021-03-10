@@ -1,2 +1,2 @@
 # Image-Classification-using-CNN
-Classifying food image using Convolutional Neural Network
+Classifying food image using pretrained Convolutional Neural Network Xception
