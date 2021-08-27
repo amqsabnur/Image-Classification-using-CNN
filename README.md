@@ -1,2 +1,2 @@
 # Image-Classification-using-CNN
-Classifying food image using pretrained Convolutional Neural Network Xception
+Classifying multiclass flower image using pretrained Convolutional Neural Network ResNest 50
